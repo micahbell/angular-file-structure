@@ -1,0 +1,104 @@
+body {
+  background-color: darkslategray;
+}
+
+.nav.navbar-nav.navbar-left li {
+  font-size: 1.15em;
+}
+
+.post {
+  border: 1px solid;
+}
+
+.panel {
+  background-color: whitesmoke;
+}
+
+img {
+  max-width: 220px;
+  margin-right: 14px;
+  float: left;
+}
+
+.author {
+  text-align: right;
+}
+
+.add-form input.ng-invalid.ng-touched {
+    background-color: #FCE8EC;
+  }
+
+.add-form input.ng-valid.ng-touched {
+  background-color: #e6f2e6;
+}
+
+.add-form h4 {
+  margin-bottom: 28px;
+}
+
+input.form-control.add {
+  margin-bottom: 14px;
+}
+
+input.form-control#search {
+  margin-right: 4px;
+}
+
+#add-button{
+  margin-top: 14px;
+  margin-right: 14px;
+}
+
+.negative {
+  color: red;
+}
+
+.positive {
+  color: green;
+}
+
+span.add, span.view {
+  cursor: pointer;
+}
+
+.add-comment {
+  position: relative;
+  right: 14px;
+  top: 5px;
+  margin-bottom: 5px;
+}
+
+.comment-label {
+  margin-right: 3px;
+  margin-left: 15px;
+}
+
+.form-inline button {
+  margin-left: 15px;
+}
+
+.comment {
+  position: relative;
+  left: 234px;
+}
+
+/***** ng Animate *****/
+.comments.ng-enter {
+  transition:0.75s linear all;
+  opacity:0;
+}
+
+.comments.ng-enter-active {
+  opacity:1;
+}
+
+
+
+
+
+
+
+
+
+
+/**/

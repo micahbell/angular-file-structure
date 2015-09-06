@@ -87,14 +87,14 @@ app.controller('PostController', function($scope) {
       datePosted: "2015-08-26T03:39:47.650Z",
       comments: []
     },
-    {
-      title: 'The Bob Loblaw Law Blog',
-      author: 'Steve Holt',
-      image: '../images/lindsay.jpg',
-      description: "Stop licking my hand, you horse's ass! Either I zip down, or he zips up, and that is a mighty long zipper on Mother's Cher jumpsuit. There's a new daddy in town. A discipline daddy. She's a girl, I need to teach her how to be a woman. Within her lies a queen. Let me out that queen. We need a name. Maybe Operation Hot Mother. No, let's try to top that. (They never did.) It's as Ann as the nose on plain's face. I should be in this Poof!",
-      numVotes: 4,
-      datePosted: "2015-08-24T03:39:21.650Z",
-      comments: []
-    }
+    // {
+    //   title: 'The Bob Loblaw Law Blog',
+    //   author: 'Steve Holt',
+    //   image: '../images/lindsay.jpg',
+    //   description: "Stop licking my hand, you horse's ass! Either I zip down, or he zips up, and that is a mighty long zipper on Mother's Cher jumpsuit. There's a new daddy in town. A discipline daddy. She's a girl, I need to teach her how to be a woman. Within her lies a queen. Let me out that queen. We need a name. Maybe Operation Hot Mother. No, let's try to top that. (They never did.) It's as Ann as the nose on plain's face. I should be in this Poof!",
+    //   numVotes: 4,
+    //   datePosted: "2015-08-24T03:39:21.650Z",
+    //   comments: []
+    // }
   ];
 });
